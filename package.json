@@ -100,7 +100,7 @@
     "xunit-file": "~0.0.7"
   },
   "engines": {
-    "node": ">=10.15.3"
+    "node": ">=0.10.0"
   },
   "repository": {
     "type": "git",
